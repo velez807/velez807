@@ -1,5 +1,13 @@
 # 💫 About Me:
-Currently, I'm about to finish my degree in Systems Engineering, where I've focused on software development. <br>I'm currently working on various projects for developing electronic products for interactive activities and video game development.
+I have immersed myself in the programming and computer world for over 7 years, working on personal projects and gaining valuable experience. Currently in my final year of studying Computer Systems Engineering, I have honed my skills in developing full-stack applications, backend solutions, REST APIs, microcontroller programming, and even delving into the realm of operations research.
+
+My experience encompasses various domains, including game development using Unity, creating interactive electronic products, and web platform development at Vértigo Paintball. These opportunities have solidified my proficiency in languages such as C++, C#, HTML, CSS, and JavaScript.
+
+In addition, I have dedicated a year to research, focusing on developing algorithms to solve routing problems, specifically seeking energy-efficient solutions for vehicle routing. My contributions in this area have given me a deeper understanding of the importance of sustainable practices in software development.
+
+Throughout my career, I have demonstrated my ability to collaborate effectively in small teams, delivering projects on time with clean code and seamless implementation. I have also gained professional experience, further refining my skills in software development. Additionally, I have had the privilege of working on a electronics project that involved assembling and programming IoT devices, Bluetooth peripherals, and sensors for use in the gaming industry.
+
+I am passionate about leveraging my technical expertise and problem-solving skills to contribute to innovative projects and make a positive impact in the field of software development.
 
 
 ## 🌐 Socials:
